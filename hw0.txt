@@ -1,3 +1,16 @@
 # Description of your program (part 7)
-
+ if you wanted to count the number of words in a document follow these instructions:
+ 1. look at the document and recognize the spaces on the page that do not have words filled in
+     these are called "blank spaces"
+  2. any time there is a "blank space" in front or behind a word then we will begin to count
+  3. to know that there are not anymore words on the page, "blank spaces" will appear consecutively until
+     the documents end
 # Reflection on writing your program (part 8)
+This was really hard because I have to assume the person reading the instructions knows nothing about
+how you would count or could easily misinterpret my instructions. Although I have weak coding skills, it felt like
+this exercise in English was difficult and if I knew the commands maybe coding it would be a more efficient way to
+explain how to count words in a document.
+
+What I really want to get out of this class is to learn how to code better, and feel more confident doing that. I
+feel like I am starting from 0 and I want to excel in this subject especially since I am not the biggest fan of coding,
+but I see the impact it can make on people's lives.
